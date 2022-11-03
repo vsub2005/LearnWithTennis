@@ -1,0 +1,40 @@
+1 Clavicle		
+2 Femur
+3 Glycogen 	
+4 Hinge
+5 Adduction
+6 Pronation
+7 Tendon
+8 Labrum
+9 Scapula
+10 Supraspinatus
+11 Hamstring
+12 Conditioning
+13 Mode
+14 Intensity
+15 Competitive fitness
+16 Muscle Spasm
+17 Capacity
+18 Target Zone
+19 Fitness
+20 Incision
+21 Tendon
+22 Nerves
+23 Conditioning
+24 Mode
+25 Atropy
+26 1950
+27 1900s
+28 Cardiovascular
+29 Specificity
+30 Direct Injury
+31 Concussion
+32 Contusions
+33 Meniscus
+34 Antagonist
+35 Muscle Mass
+36 Intensity
+37 Duration
+38 Asymmetry
+39 Dynamic Stretching
+40 Sprain

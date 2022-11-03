@@ -1,0 +1,70 @@
+1 An injury that has occurred at the site of the impact/cause	
+2 An injury that occurs at a referred site from the impact/cause	
+3 A stretch injury of the ligaments in an area
+4 Taping the ankle	
+5 Anterior Crucial Ligament	
+6 A traumatic injury that alters the brain’s mental status	
+7 Balance problems, Dizziness, Fatigue, and Headaches
+8 Steroids that enhance a person’s athletic ability 
+9 A cut in the skin
+10 Injured tissue/skin where blood capillaries have been ruptured
+11 To extend the elbow/forearm
+12 Where the clavicle meets the scapula
+13 A wedge of cartilage that provides a cushion in the knee joint
+14 An assessment of injuries
+15 Humerus, Radius, and Ulna
+16 Different specialized areas that are related to performance and injury
+17 Muscles, Ligaments, Tendons, Skin	
+18 Bones, Teeth	
+19 Dizziness, Dry Mouth, Headaches, Thirst 
+20 Acne, balding, liver damage, High cholesterol	
+21 The weight of the body after the fat has been subtracted
+22 The weight of the body after the lean body weight has been subtracted
+23 Amount of body fat needed for proper production of internal organs
+24 The size of the muscle in its resting state
+25 The lengthening of a muscle during contraction
+26 The desired level of fitness
+27 Rehabilitative treatment that uses an electrical current to heal
+28 The tensioning of the muscle during shortening, lengthening, or no motion
+29 Divides the body into top and bottom portions
+30 The muscle opposing the primary muscle causing movement
+31 Holding a body part motionless to stretch a muscle for a certain period of time
+32 The maximum range through which a joint can move
+33 the tensioning of the muscle during- shortening(concentric), lengthening(eccentric), or no motion(isometric).
+34 The number of times the heart beats in one minute when no physical activity is taking place
+35 The girth or size of a muscle
+36 lacking correspondence in shape, proportion, and relative position between opposing body parts
+37 The degree of effort required to complete a certain physical activity
+38 The minimum amount of body fat necessary for proper production of internal organs
+39 The length of time an activity is performed
+40 The study and application of scientific and medical knowledge to aspects of exercise and athletics.
+41 The form of stretching beneficial in sports utilizing momentum from form.
+42 Size, skill, conditioning
+43 Taking the body part to its full range of motion and holding for a period of 15-30 secs
+44 Skill, training(strength coordination), diet
+45 The first layer under the bone, which is hard and leathery
+46 All individuals involved in care of an athlete
+47 A person that designs diets to enhance athletic performance
+48 The primary physician in the care of the athlete; cooperates with team doctor
+49 Shock
+50 They are responsible for performing treatments that require special training
+51 They design special diets with the goal of enhancing athletic performance
+52 Sagittal plane
+53 They work with athletes to recover from serious injury through emotional support
+54 Fitness professionals involved in exercise prescription and instruction 
+55 Moving a body part backward
+56 Moving a body part forward
+57 Raising a body part
+58 Lowering a body part
+59 Circular motion at the hip or shoulder
+60 Turning the sole of the foot inward
+61 Turning the sole of the foot outward
+62 Ankle movement bringing the foot toward the shin
+63 Ankle movement bringing the foot downward
+64 They promote health and relaxation through the manipulation of muscles
+65 Responsible for injury prevention, evaluation, diagnosis, and care
+66 Movement of the wrist toward the radius or lateral side
+67 Movement of the wrist toward the ulna or medial side
+68 Movement of the thumb across the palm of the hand
+69 A wound in which the skin’s surface is scraped away
+70 Tearing or pulling away from a part of a structure
